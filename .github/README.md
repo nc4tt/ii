@@ -96,6 +96,7 @@ Widget system: Quickshell | Support: Yes
  - Quickshell: [Soramane](https://github.com/caelestia-dots/shell/), [FridayFaerie](https://github.com/FridayFaerie/quickshell), [nydragon](https://github.com/nydragon/nysh)
  - AGS: [Aylur](https://github.com/Aylur/dotfiles/tree/ags-pre-ts), [kotontrion](https://github.com/kotontrion/dotfiles)
  - EWW: [fufexan](https://github.com/fufexan/dotfiles)
+ - [@EisregenHaha](https://github.com/EisregenHaha) for setup files
 
 <div align="center">
     <h2>• stonks •</h2>
