@@ -4,7 +4,7 @@ if [[ "$EUID" -eq 0 ]]; then echo "Do not run this script with sudo."; exit 1; f
 
 set -e
 
-REPO_URL="https://github.com/ncrtt/ii"
+REPO_URL="https://github.com/nc4tt/ii"
 CLONE_DIR="$HOME/.cache/ii"
 BRANCH="main"
 
