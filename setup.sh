@@ -30,5 +30,5 @@ fi
 
 cd "$CLONE_DIR" || { echo "Failed to enter $CLONE_DIR"; exit 1; }
 
-chmod +x fedora/fedora.sh
-bash fedora/fedora.sh
+chmod +x debian/debian.sh
+bash debian/debian.sh
